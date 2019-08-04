@@ -624,6 +624,8 @@
 #####   Blockchain 
 - [Blockchain research and whitepapers](https://github.com/bellaj/Blockchain) - Blockchain research and whitepaper relate.
 ##### 	Hacking and security research 
-- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers,
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 ##### 	Development
+#####   DEV in Khmer Languages 
+- [machine_learning_lesson](https://github.com/khmertool/machine_learning_lesson) - Machine learning lesson in khmer .
 ##### 	Github Useful Repo
