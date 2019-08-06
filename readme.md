@@ -1,5 +1,7 @@
 
+
 ## Contents
+
 
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
@@ -614,7 +616,7 @@
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
-
+- [Original Repo](https://github.com/sindresorhus/awesome)
 
 ## LyhourChhen
 ##### 	General
