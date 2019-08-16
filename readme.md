@@ -48,6 +48,7 @@
 
 ##### 	Development
 - [Blockchain by example](https://github.com/PacktPublishing/Blockchain-By-Example) - Learn to write blockchain base on example.
+- [Learning go in place](https://github.com/hoanhan101/ultimate-go) - learning go in 1 place.
 #####   DEV in Khmer Languages 
 - [machine_learning_lesson](https://github.com/khmertool/machine_learning_lesson) - Machine learning lesson in khmer .
 ##### 	Github Useful Repo
