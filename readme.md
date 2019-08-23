@@ -39,7 +39,8 @@
 - [Movie list for hacker ](https://github.com/k4m4/movies-for-hackers) - Any relate hacker movie list.
 -  [Terminal things](https://github.com/k4m4/terminals-are-sexy) - Terminal all kind of things relate.
 - [technical-whitepapers](https://github.com/trimstray/technical-whitepapers) - Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.
-- [CS Ranking](https://github.com/emeryberger/CSrankings) - A web app for ranking computer science departments according to their research output in selective venues. 
+- [CS Ranking](https://github.com/emeryberger/CSrankings) - A web app for ranking computer science departments according to their research output in selective venues.
+- [Coding Interview](https://github.com/jwasham/coding-interview-university) - The roadmap for interview to becoming computer science.
 - [30s Hooking snippet](https://github.com/30-seconds) - Understanding the snippet only 30s.
 #####   Blockchain 
 - [Blockchain research and whitepapers](https://github.com/bellaj/Blockchain) - Blockchain research and whitepaper relate.
