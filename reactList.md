@@ -12,3 +12,4 @@
 - [react-paper](https://github.com/callstack/react-native-paper) - material design kit for react-native
 - [baseUI](https://github.com/uber-web/baseui) - another ui component for react
 - [formik](https://github.com/jaredpalmer/formik) - build form with react
+- [markdown in jsx](https://mdxjs.com/) - create markdown with jsx
