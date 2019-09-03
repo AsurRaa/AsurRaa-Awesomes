@@ -35,6 +35,7 @@
 ## LyhourChhen
 
 ##### 	General 
+- [Functional Programming roadmap](https://github.com/leandrotk/functional-programming-learning-path) - Functional programing path.
 - [techlead](https://github.com/derekbrown/techlead) - techlead documentation collections !
 - [Interview books](https://github.com/yangshun/tech-interview-handbook) - Interview for JS
 - [Movie list for hacker ](https://github.com/k4m4/movies-for-hackers) - Any relate hacker movie list.
