@@ -1,7 +1,7 @@
 
-![enter image description here](https://raw.githubusercontent.com/LyhourChhen/Awesome-List/master/logo.png)
 
 
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/LyhourChhen/Awesome-List/master/logo.png" /></div>
 	
 ## Contents
 - [LyhourChhen](#LyhourChhen)
