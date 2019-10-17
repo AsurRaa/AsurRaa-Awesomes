@@ -36,6 +36,8 @@
 ## LyhourChhen
 
 ##### 	General 
+- [xiao mi reverse enginner](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) XiaoMi hack, reverse engineer
+- [APp ideas](https://github.com/florinpop17/app-ideas) Get the new idea to coding here...
 - [Hacking while law enforment bridge with the goverment](https://www.defcon.org/) -defcon
 - [Free API](https://github.com/public-apis/public-apis) - Collect all api ! 
 - [Business Awesome](https://medium.com/swlh/300-awesome-free-things-e07b3cd5fd5b) - Awesome-list -> for entreprenurs ! 
