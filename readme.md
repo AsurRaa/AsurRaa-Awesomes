@@ -36,6 +36,7 @@
 ## LyhourChhen
 
 ##### 	General 
+- [Hacking tutorials](https://mega.nz/?fbclid=IwAR0oz77xddfqvKMyB_g95OdLmYXChQJIeJCGNkWHGhHleGxvbc2d54J1C1Y#F!gYd1yaLI!z9RoV7G7ehVX79XU4964EQ) -- all secret hacking method !
 - [Network hacking tutorial](https://github.com/hmaverickadams/Beginner-Network-Pentesting?fbclid=IwAR0t6a2j-speo99YuASP-25FZuc9R2AlXmGPzvzRX7KySh-nyLQiW81lTQE) - Network hacking tutorial
 - [xiao mi reverse enginner](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) XiaoMi hack, reverse engineer
 - [APp ideas](https://github.com/florinpop17/app-ideas) Get the new idea to coding here...
