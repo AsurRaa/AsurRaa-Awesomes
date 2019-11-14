@@ -39,8 +39,8 @@
 ## LyhourChhen
 
 ##### 	General
-- [https://github.com/rsapkf/goodies] - another cool collections
-- [https://github.com/atlassian/react-beautiful-dnd] - Beautiful drag and drop library for react
+- [Cool one](https://github.com/rsapkf/goodies) - another cool collections
+- [drag and drop](https://github.com/atlassian/react-beautiful-dnd) - Beautiful drag and drop library for react
 - [Using Chart](https://github.com/chartjs/Chart.js) - using chart in web application
 - [Proper JS and proper react](https://github.com/FezVrasta/react-popper) - proper the driven library around proper
 - [KaoJS](https://github.com/koajs/koa) - Other Node middleware like express 
