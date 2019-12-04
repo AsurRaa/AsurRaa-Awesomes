@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [ethereum](https://github.com/ethereum/eth2.0-specs) - eth big picture v2
 - [final react form](https://github.com/final-form/react-final-form) - form component for react
 - [js & ts compiler run on rust](https://github.com/swc-project/swc) - alternative babal written with rust.
 - [Graph ql Construction](https://github.com/prisma-labs/nexus) - schema contrction graph
