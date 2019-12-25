@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [rechart](https://github.com/recharts/recharts) - the chart library for build with D3 for react
 - [ant v2](https://antv.vision/zh) the best library for graph live in react -native 
 - [TypeGraph](https://github.com/MichalLytek/type-graphql) TypeScript with GraphQL 
 - [Checklists](https://github.com/netbiosX/Checklists) - Pentesting checklists for various engagements
