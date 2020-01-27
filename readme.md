@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) - JavaScript Question Interview & Algorithm
 - [the-book-of-secret-knowledge
 ](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
 - [The Structure way to write backend](https://github.com/fpereiro/backendlore) How i wrote backedn ????
