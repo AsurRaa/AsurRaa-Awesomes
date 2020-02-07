@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [Freelacing guide](https://github.com/LyhourChhen) - the guide led you to become freelencer
 - [react-final-form](https://github.com/final-form/react-final-form) - built form easier
 - [Coding Question Interview](https://github.com/yangshun/tech-interview-handbook) - coding interview question
 - [JavaScript Vanilla mini Project](https://github.com/bradtraversy/vanillawebprojects) - The JavaScript Vanilla project to practise
