@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### Great repos need to check out now !!!
+- [learn resources](https://github.com/lauragift21/awesome-learning-resources) - The place where resource to learn everything.
 - [Learn to build your own technology here](https://github.com/danistefanovic/build-your-own-x) - The docs relate demonstrate to build own  technology.
 - [Programming Book for free](https://github.com/EbookFoundation/free-programming-books) - free programming book to download.
 - [Design System](https://github.com/donnemartin/system-design-primer) - Learn how designed system here. 
