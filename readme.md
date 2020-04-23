@@ -38,6 +38,9 @@
 
 ## LyhourChhen
 
+##### Flutter 
+- [Flutter Cheatsheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - cheatsheet for flutter layout.
+
 ##### Lirabry 
 - [jimp](https://github.com/oliver-moran/jimp) - modified and manipulate the piture in nodejs with server side
 
