@@ -57,6 +57,7 @@
 
 
 ##### 	General
+- [the best virtual whiteboard](https://github.com/excalidraw/excalidraw) - virtual whiteboard opensource
 - [monitor-cli](https://github.com/aristocratos/bashtop) - sys monitor cli
 - [Example Base with React and TypeScript](https://github.com/Lemoncode/react-typescript-samples) - React - TypeScript Example 
 - [ts-react-redux-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - React Redux TypeScript Guide
