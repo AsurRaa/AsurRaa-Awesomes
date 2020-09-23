@@ -38,7 +38,9 @@
 
 ## LyhourChhen
 
-
+##### Design Resources 
+- [Cool deisign Resources](https://github.com/sw-yx/spark-joy) - ✨😂easy ways to add design flair, user delight, and whimsy to your product.
+- [design-resources](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 
 ##### Cool Stuff
 - [learn js by game](twilio.com/quest) - learn javasccript with this game.
